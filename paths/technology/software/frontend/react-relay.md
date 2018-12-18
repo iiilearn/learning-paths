@@ -5,7 +5,7 @@
 
     Learn neccessary knowdlege to get started
     
-    [tutorial] [HTML W3C](https://www.w3schools.com/html/)
+    [HTML W3C](https://www.w3schools.com/html/) [tutorial]
 
   - **Step 2:**
   
